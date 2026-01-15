@@ -1,1 +1,1 @@
-This is my file teehee, im gonna update this rn
+With this project, I learned the various ways formatting can be used to change the look of a website. I played around with fonts, hexcodes and various measures of padding and margins. I also added a few changes of my own to round the container of the page.
