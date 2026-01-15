@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(#773061, #551351);
+    background: linear-gradient(#55203d, #551351);
     font-family: Arial, Helvetica, sans-serif;
     margin: 5% 0;
 }
@@ -37,7 +37,7 @@ p {
 img {
     width: auto;
     border-radius: 30% 15%;
-    border: solid;
+    filter: drop-shadow(0 0 0.90rem#e63bd7);
 }
 
 ul {
